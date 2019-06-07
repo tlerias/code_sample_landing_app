@@ -1,0 +1,41 @@
+.nav-list-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: space-around;
+  width: 400px;
+}
+.nav-list-item-container:hover .nav-list-item-overlay {
+  display: block;
+}
+
+.nav-list-item {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: space-between;
+  justify-content: space-between;
+}
+
+.nav-list-item-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-list-item-image {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.nav-list-item-title {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.nav-list-item-overlay {
+  display: none;
+}
