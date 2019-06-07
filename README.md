@@ -1,6 +1,9 @@
 # CODE SAMPLE: Landing app
 ### This is just a code sample. This has been altered to redact the name of the company/person/persons this was built for therefore will not run on a server due to the missing dependencies.
 
+Notes from the developer:
+This is a simple application I built in 2017 when I had just learned Angular 4. I chose this as a code sample because it displays my ability to learn new frameworks quickly and displays my ability to write clean consistent code. I am a strong believer in best practices and this application displays that.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ### Built with:
